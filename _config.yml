@@ -4,12 +4,12 @@ markdown:	kramdown
 permalink:	/blog/:title
 
 # Setup
-title:            Thinny
+title:            没吃药的七叔
 tagline:          'blog'
 description:      'My personal blog.'
-url:              http://camporez.github.io
+url:              http://7heaven.github.io
 baseurl:          
-commentsystem:    google
+commentsystem:    duoshuo
 disqus:           example
 
 author:
@@ -24,11 +24,11 @@ cover:            /assets/images/cover.jpg
 
 social:
   - icon:         twitter
-    url:          https://twitter.com/iancamporez
+    url:          https://twitter.com/cfm_1987
     desc:         Follow me on twitter
 
   - icon:         github
-    url:          https://github.com/camporez
+    url:          https://github.com/7heaven
     desc:         Fork me on github
 
   - icon:         googleplus-alt
@@ -36,7 +36,7 @@ social:
     desc:         Add me on google+
 
   - icon:         feed
-    url:          http://camporez.github.io/atom.xml
+    url:          http://7heaven.github.io/atom.xml
     desc:         Subscribe to my feed
 
 menu:
@@ -47,8 +47,8 @@ menu:
     url:          /about
 
 copyright:
-  author:         Camporez
-  url:            http://camporez.github.io
+  author:         7Heaven
+  url:            http://7heaven.github.io
   type_title:     Some rights reserved
   type_url:       http://creativecommons.org/licenses/by-nc/2.5
 
@@ -59,3 +59,8 @@ google_analytics:
 
 # Default Theme Color for Chrome on Android Lollipop (Use RGB ColorCode without `#`, e.g.: `db5945`)
 theme_color:       7E9576
+
+comments:
+    provider: duoshuo
+    duoshuo:
+        short_name: meichiyao
