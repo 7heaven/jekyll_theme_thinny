@@ -13,8 +13,8 @@ commentsystem:    duoshuo
 disqus:           example
 
 author:
-  name:           Ian Brunelli
-  url:            https://google.com/+IanCamporezBrunelli
+  name:           7heaven
+  url:            https://google.com/+JamesskywalkerMoriartyJr
 
 paginate:         5
 
@@ -32,7 +32,7 @@ social:
     desc:         Fork me on github
 
   - icon:         googleplus-alt
-    url:          https://google.com/+IanCamporezBrunelli
+    url:          https://google.com/+JamesskywalkerMoriartyJr
     desc:         Add me on google+
 
   - icon:         feed
